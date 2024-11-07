@@ -1,2 +1,2 @@
 # MenuOperaciones
-Un menu en Java, en consola, que saca las 4 operaciones basicas
+Un menú en Java, en consola, que saca las 4 operaciones básicas.
