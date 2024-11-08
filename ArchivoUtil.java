@@ -2,7 +2,18 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 import java.util.Scanner;
-
+/**
+ * <b>Class:</b> ArchivoUtil <br>
+ * <b>Description:</b> 
+ * <p> Clase de utilidades para manejar la entrada de usuario y operaciones auxiliares en la aplicación. </p>
+ *
+ * @author Mahonrri Nazir Sastré De La Cadena
+ * @mail mnsastrec@desarrollo-ultrasist.com.mx
+ * 
+ * @created 7 de noviembre del 2024
+ * @version 1.0
+ * @category Utilidad.
+ */
 public class ArchivoUtil {
 
     /**

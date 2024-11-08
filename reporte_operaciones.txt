@@ -1,0 +1,7 @@
+Reporte de operaciones realizadas:
+-------------------------------
+Suma: [2, 2, 2, 2] = 8
+Resta: [3, 3] = 0
+Resta: [3, 2, 24, 5, 4] = -32
+División: [3, 3] = 1.0
+Resta: [33, 2] = 31

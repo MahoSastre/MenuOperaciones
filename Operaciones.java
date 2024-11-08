@@ -1,5 +1,16 @@
 import java.util.List;
-
+/**
+ * <b>Class:</b> Operaciones <br>
+ * <b>Description:</b> 
+ * <p> Clase que contiene métodos estáticos para realizar operaciones aritméticas básicas (suma, resta, multiplicación y división) sobre listas de números. </p>
+ *
+ * @autor Mahonrri Nazir Sastré De La Cadena
+ * @mail mnsastrec@desarrollo-ultrasist.com.mx
+ * 
+ * @created 7 de noviembre del 2024
+ * @version 1.0
+ * @category Operación aritmética
+ */
 public class Operaciones {
 
     /**
